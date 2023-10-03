@@ -6,7 +6,7 @@
 
 🙋‍♀️ A short introduction - what is this organization all about?
 
-[Google Developer Student Club](https://gdsc.community.dev/ips-academy-indore/) is a university-based. community group for students who are interested in technology, especially technology from Google.
+[Google Developer Student Club](https://gdsc.community.dev/ips-academy-indore/) is a university-based, community group for students who are interested in technology, especially technology from Google.
 
 🌈 Contribution guidelines - how can the community get involved?
 
