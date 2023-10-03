@@ -1,12 +1,26 @@
-## Hi there 👋
+## IPS Academy x Google Developer Student Club
 
-<!--
 
-**Here are some ideas to get you started:**
 
-🙋‍♀️ A short introduction - what is your organization all about?
+**Here's some info to get you started:**
+
+🙋‍♀️ A short introduction - what is this organization all about?
+Google Developer Student Club is a university-based. community group for students who are interested in technology, especially technology from Google.
+
 🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are greatly appreciated.
+
+- If you have suggestions for adding or removing projects, feel free to [open an issue](https://github.com/gdsc-ipsacademy/.github/issues/new) to discuss it, or directly create a pull request after you edit the README.md file with necessary changes.
+- Please make sure you check your spelling and grammar.
+- Create individual PR for each suggestion.
+<!-- - Please also read through the Code Of Conduct before posting your first idea as well.-->
+<!-- 👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know? -->
+🧑‍💻 Creating a pull request - how to contribute?
+
+Fork the Repo
+Create your Project Branch (git checkout -b Project/AmazingProject)
+Commit your Changes (git commit -m 'Add some AmazingProject')
+Push to the Branch (git push origin Project/AmazingProject)
+Open a Pull Request
+
+
