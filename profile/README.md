@@ -18,9 +18,9 @@ Please also read through the [Code Of Conduct](https://github.com/gdsc-ipsacadem
 🧑‍💻 Creating a pull request - how to contribute?
 
 Fork the Repo
-Create your Project Branch (git checkout -b Project/AmazingProject)
-Commit your Changes (git commit -m 'Add some AmazingProject')
-Push to the Branch (git push origin Project/AmazingProject)
-Open a Pull Request
+- Create your Project Branch (git checkout -b Project/AmazingProject)
+- Commit your Changes (git commit -m 'Add some AmazingProject')
+- Push to the Branch (git push origin Project/AmazingProject)
+- Open a Pull Request
 
 
