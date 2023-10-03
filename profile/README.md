@@ -16,8 +16,8 @@ Contributions are what make the open source community such an amazing place to b
 Please also read through the [Code Of Conduct](https://github.com/gdsc-ipsacademy/.github/blob/main/CODE_OF_CONDUCT.md) before posting your first idea as well.
 <!-- 👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know? -->
 🧑‍💻 Creating a pull request - how to contribute?
-
 Fork the Repo
+
 - Create your Project Branch (git checkout -b Project/AmazingProject)
 - Commit your Changes (git commit -m 'Add some AmazingProject')
 - Push to the Branch (git push origin Project/AmazingProject)
