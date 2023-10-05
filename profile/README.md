@@ -27,7 +27,7 @@ There are many great reasons to contribute to open source projects:
 - It helps you to build relationships in the open source community.
 - It feels good to give back to a project that you use!
 
-## Projects - which projects to contribute to?
+## ⚙️ Projects - which projects to contribute to?
 
 - You can contribute to a library you currently use, because you will already understand the purpose of the library and you will be invested in making it better. You can contribute to python libraries like [scikit-learn](https://scikit-learn.org/stable/index.html) or [scipy](https://scipy.org/) or [pytorch](https://pytorch.org/) etc or javascript libraries like [react](https://react.dev/) or [nodejs](https://nodejs.org/en) or [polymer](https://polymer-library.polymer-project.org/) etc.
 - You can contribute by creating your own packages, libraries and projects for the world to use.
