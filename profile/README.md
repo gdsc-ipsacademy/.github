@@ -50,3 +50,6 @@ This is a simple workflow of how contributing to a repo works:
 Please read through [How to fork a repo](https://docs.github.com/en/get-started/quickstart/fork-a-repo) documentation for proper step by step guides on how to fork a repository.
 
 
+**At last, if you like the organisation, connect with us by following us, our members and the contributors.**
+
+**Star the repositories you like, become a watcher or even better, go and contribute!**
